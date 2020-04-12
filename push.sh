@@ -13,6 +13,10 @@ echo "更新博客开始！"
 
 cd ../hxc.github.io/_posts/
 #添加固定的头
+sed "2 a\
+1112121
+" $book
+
 echo "---
 layout:     post                    # 使用的布局（不需要改）
 title:      My First Post               # 标题 
