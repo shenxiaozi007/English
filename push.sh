@@ -29,7 +29,7 @@ tags:                               #标签
     - 生活
 ---" > $book 
 #写入内容
-echo $book_bak >> $book
+cat $book_bak >> $book
 #干掉备份文件
 rm -f $book_bak
 git add ./
