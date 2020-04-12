@@ -6,7 +6,8 @@ echo "更新开始！"
 cp my-english-book.md ../hxc.github.io/_posts/$book
 git add ./
 git commit -m "$message"
-git push origin master 
+git push 
+
 
 echo "更新完成！"
 echo "更新博客开始！"
