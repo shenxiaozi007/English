@@ -40,4 +40,3 @@ The man is a teacher,
 Mary's dress are colorful,
 My mother was in the kitchen.
 ```
-
