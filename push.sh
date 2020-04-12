@@ -9,7 +9,6 @@ git add ./
 git commit -m "$message"
 git push 
 
-
 echo "更新完成！"
 echo "更新博客开始！"
 
@@ -19,14 +18,14 @@ cp $book $book_bak
 #添加固定的头
 echo "---
 layout:     post                    # 使用的布局（不需要改）
-title:      My First Post               # 标题 
-subtitle:   Hello World, Hello Blog #副标题
-date:       2017-02-06              # 时间
-author:     BY                      # 作者
+title:      英语总结              # 标题 
+subtitle:   坚持坚持再坚持      #副标题
+date:       2020-04-12              # 时间
+author:     hxc                      # 作者
 header-img:    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
-    - 生活
+    - 学习
 ---" > $book 
 #写入内容
 cat $book_bak >> $book
