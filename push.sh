@@ -13,9 +13,6 @@ echo "更新博客开始！"
 
 cd ../hxc.github.io/_posts/
 #添加固定的头
-sed "2 a\
-1112121
-" $book
 
 echo "---
 layout:     post                    # 使用的布局（不需要改）
@@ -27,7 +24,7 @@ header-img:    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 生活
----" >> $book 
+---" > $book 
 git add ./
 git commit -m "$message"
 git push origin master
