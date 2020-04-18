@@ -91,3 +91,45 @@
 ### 二. 英语的语序和基本句型
 
 —般说来，英语句子中各个成分的顺序是主语、谓语、宾语、宾语补足语，而表语、定语、状语
+的位置则要根据情况而定。英语句子的基本结构可以归纳成五种基本句型及其圹展，组合，省略或倒
+装。掌握这五种基本句型，是掌握各种英语句子结构的基础。
+
+#### 1. 主语+谓语(不及物动词) or + 状语（表示动作）
+
+例如：
+
+- They work , 他们工作。
+- I work every day 我每天都工作 （work 是不及物动词作谓语，every day是时间状语）
+- I run every day 我每天跑步 （run 是不及物动词作谓语，every day是时间状语）
+- I live in Zhongshan city （live 是不及物动词作谓语，in Zhongshan city 是地点状语）
+
+#### 2. 主语+be(系动词)+表语 or + 状语（表示状态）
+
+例如：
+
+- She is busy.她忙。（is 是 系动词 busy 是副词作表语）
+- I am in Guangdong now 我现在在广东 （in Guangdong 介词短语作表语， now 是时间状语）
+- I was a worker before 我以前是一个工人 (worker是名词作表语，before 是时间状语)
+
+#### 3. 主语+谓语(及物动词)+宾语 or + 状语（表示动作）
+
+例如：
+
+- John studies English. John学英语。
+- I read English every morning 我每天读英语(read 是及物动词作谓语，English 是名词作宾语，every month 是时间状语)
+- She learns English very hard 她很努力学习英语（learn 及物动词作谓语，English 是名称作宾语，hard 是方式副词作状语）
+
+#### 4. 主语+谓语(及物动词里面的双宾动词)+间接宾语+直接宾语 or + 状语（表示动作）
+
+例如：
+
+- My grandma made me a new dress •我奶奶给我做了 一件新衣裳。
+- I gave her a book yesterday . 我昨天给了她一本书 （gave 及物动词作谓语，her 间接宾语， book 是直接宾语， yesterday 时间状语）
+- They sent me a computer last week 上周. 他们送我一台电脑（sent 及物动词作谓语，me 间接宾语， computer 是直接宾语， last week 时间状语）
+
+#### 5. 主语+谓语(少数特定的及物动词)+宾语+宾补 or + 状语（表示动作）
+
+例如:
+
+- I made her happy yesterday 昨天，我让她开心（made 是及物动词作谓语，her作宾语，happy是形容词作宾补，yesterday是时间状语）
+- Her father called her Bady Bear before 她爸爸以前叫她“宝贝小熊”（called及物动词作谓语，her作宾语，Baby Bear是名称作宾补，before是时间状语）
