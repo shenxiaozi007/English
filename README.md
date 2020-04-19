@@ -156,9 +156,11 @@
 
 ### 1. 名词
 
-#### 1.1 名词的定义
+#### 1.1 名词的定义。世间万物的名称
 
 名词是表示人、动物、事物、地方、状态、品质、动作等的名称◊它可以表示具体的东西，也可表示抽象的东西。
+世界_上所有的东西,都有一个名称，包括抽象的，看不见的东西。比如我们每个人都有一个名称，这就
+是我们的名字，所以人名也是名词。我们用的电脑( computer )，钢笔(pen)，手机(mobile
 例如：表示人：Maiy玛丽，teacher老师
 
 - 表示动物：dog狗，cat猫
@@ -196,7 +198,7 @@
 
 名词的数，即可数名词与不可数名词的实际应用，是名词使用中的难点。
 
-#### 1.3.1 可数名词
+##### 1.3.1 可数名词
 
 可以用数量加以计算的名词，一般个体名词和集体名词都是可数名词，它具有单数形式和复数形式两种。
 
@@ -204,22 +206,147 @@
 - 集体名词 可数名词 如：（a)family, (each)class, (all)parties, (different) nations
 - 专有名词 少数可数 如：Communists，Englishmen
 
-#### 1.3.2 不可数名词
+##### 1.3.2 不可数名词
 
-不能用数字计算，所以它通常只有单数形式◊它一般包含有专有名词、物质名词、
+不能用数字计算，所以它通常只有单数形式。它一般包含有专有名词、物质名词、
 抽象名词等。
 
 - 物质名词 不可数名词 如：milk，gold，coffee，beer
 - 抽象名词 不可数名词 如：happiness
 - 专有名词 多数不可数名词 如：London，China
 
-二、可数名词和不可数名词的用法
-1>可数名词有单复数之分，表示一个或者多个。
-单数开拭可在前面加a/an或其相应代词(如another, one, every, each)。紧接着的单词的
+#### 1.4 可数名词和不可数名词的用法
+
+##### 1.4.1 可数名词有单复数之分，表示一个或者多个
+
+###### 1.4.1.1 单数形式
+
+可在前面加a/an或其相应代词(如another, one, every, each)。紧接着的单词的
 第—发音为元音时用an;反之，用a。
-例如：an English book, a useful book, a boy, another book^ every house, each day
-复数形式一般加s或者es。
-例如：books, classes。具体复数的变化规则请见后面相应童节◊
-2>不可数名词通常设有复数形式。
-不可数名词前不能加冠词a/an、数词或其相应代词，但可用織e, any, a
-lot of, a
+
+- 例如：an English book, a useful book, a boy, another book every house, each day
+
+###### 1.4.1.2 复数形式一般加s或者es
+
+- 例如：books, classes。具体复数的变化规则请见后面相应童节◊
+
+##### 1.4.2 不可数名词通常设有复数形式
+
+不可数名词前不能加冠词a/an、数词或其相应代词，但可用some, any, a
+lot of, a little等词修饰
+
+- (1) 不可数名词前不能冠词a/ an、数词或其相应代词，但可用some, any, a lot of, a
+little等词修饰。
+
+- (2) 常用不可数名词: food, meat, fish, chicken, pork, beef, mutton, drink, or ange,milk, tea, coke, water, rice, bread, homework, work, news, paper, ice, rain, snow,wind，cloud， air, weather, maths, Chinese, English, oil, bravery, information, poverty
+
+- (3) 在表示特指时，可数名词和不可数名词前面都加定冠词the,或this, that, some, any,
+no这类代词。此时，可数名词前不必加不定冠词ao
+
+例如: the waiter, this oil, that idea, no inf ormation, her courage
+
+- (4) 对可数名词的数量提问用how many; 对不可数名词的数量提问要用how much, 但对不可数
+名词前表示数量的名词修饰语提问时要用how many.
+例如:。
+How many pictures can you see on the wall? 你能看到墙上有几幅画? (可数)。
+How much pork is there in the basket?- 篮子里面有多少猪肉? (不可数)。
+How many glasses of water do you want?你想要多少杯水? (不可数前表示数量)
+
+##### 1.4.3 即可以作可数，又可以作不可数的名词
+
+有些名词总是用作可数名词的，如: leg, dog; pen。有些名词总是用作不可数名词，如: pork, gold, honesty。 但有些物质名词有时用作可数名词，有时用作不可数名词。
+
+- It is made of glass. 这是玻璃做的。(不可数)
+- He held a glass. 他拿着一个玻璃杯。(可数)
+- Revolution destroyed the old system. 改革消灭了旧的体系。(不可数)
+- There broke out a revolution. 发生了一 次改革。(可数)
+- Cake is a kind of food. 蛋糕是一-种食物。 (不可数)
+- These cakes are sweet. 这些蛋糕很好吃。 (可数)
+- This factory produces steel. 这个工厂生产钢材。(不可数)
+- We need various steels. 我们需要很多钢材。(可数)
+- Our country is famous for tea. 我国因茶叶而闻名。(不可数)
+- Two teas, please.请来两杯茶。(可数)
+
+抽象名词有时也可数:
+
+- four freedoms 四大自由
+- the four modernizations 四个现代化
+
+##### 1.4.4 可数名词的复数变化规则
+
+![规则](https://huangxinchun.github.io/English/img/词法部分/名词/4.png)
+![规则](https://huangxinchun.github.io/English/img/词法部分/名词/5.png)
+
+###### 1.4.4.1 不规则变化
+
+不规则名词的复数形式是要单个记忆的，它基本没有规律可循:
+
+- 形式变化
+
+>- mouse -> mice 老鼠 表示鼠标的时候 复数是mouses
+>- child -> children 小孩
+>- foot -> feet
+>- tooth -> teeth
+>- man -> men 男人
+>- woman -> women 女人
+>- Englishman -> Englishmen
+>- countrywoman -> countrywomen
+
+- 单复同形
+
+> 例如: deer 鹿, sheep 绵羊， fish, craft, aircraft, Chinese, Japanese等 。除人民币的元、角、分外，美元、英镑、法郎等都有复数形式。例如: one yuan, two,yuan; a dollar, two dollarsi a meter, two meters 。
+
+- 集体名词,以单数形式出现，但实为复数。
+
+>- 例如: people 人们, police 警察, cattle等本身就是复数，不能说a people，a police，a
+cattle, 但可以说a person, a policeman a policewoman, a head of cattle。the English， the British the French the Chinese the Japanese the Swiss 等名词，表示国民总称时，作复数用。
+>- 例如:。The Chinese are industries and brave.中国人 民是勤劳勇敢的。
+
+- 以s结尾，仍为单数的名词
+
+>- maths, politics, physics等学科名词， 一般是不可数名词，为单数。
+>- news为不可数名词。
+>- the United States, the United Nations 应视为单数。
+>- 以复数形式出现的书名，剧名，报纸，杂志名，也可视为单数。
+>- 例如:◎The United Nations was organized in 1945. 联合国是1945年组建起来的。
+
+##### 1.4.5 不可数名词的数
+
+不可数名词一般只用单数，没有复数形式。它一般不能和a/an及数词连用。表示不可数名词的数量时，可以用量词来修饰不可数名词，作定语。
+**量词的构成有两种方式**
+
+- 1.a/an/one+表示量的可数名词单数+of
+- 2.数词(two/three)+表示量的可数名词复数+of
+
+表示量的可数名词通常有piece, cup， bottle, bar等等 。
+**量词一般作前置定语，修改不可数名词**
+例如:
+
+- a piece of news一条新闻
+- two pieces of bread- 两块面包
+- four glasses of milk 四杯牛奶
+- five bottles of water 五杯水
+- a piece of advice 一条建议
+
+还可以用一些短语修饰不可数名词，表示数量的多或者少。具体可以参照“可数与不可数名词的修
+饰语”章节。
+例如:
+
+- a lot of water 很多水
+- lots of water 很多水
+- some water - -些水
+- a little water 一点水
+- little water 几乎没有水
+
+量词也可以修饰可数名词的复数，但是不能修饰单数
+
+- a basket of apples 一篮子苹果 不能说 a basket of apple 用 an apple。
+
+使用量词要注意：不是所有的可数名词都能构成量词。只有那种有内部空间或容器或者一些符合逻辑的可数可数名词才可以构成量词。
+
+比如:
+
+- bag/basket/truck (有内部空间)
+- cup/glass/bottle/tin/pot (容器)
+- bar/piece/loaf (符合逻辑)
+
