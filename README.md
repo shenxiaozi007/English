@@ -82,7 +82,7 @@
 #### 7. 表语
 
 表语是谓语的一部分，它位于系动词之后，说明主语身份、特征、属性或状态。—般由名词，代词，形容词，副词，不定式，介词短语等充当。
-
+ 
 例如：
 
 - She looks **nice**. 她看上去很漂亮◊(形容词作表语)
@@ -202,6 +202,7 @@
 
 可以用数量加以计算的名词，一般个体名词和集体名词都是可数名词，它具有单数形式和复数形式两种。
 
+
 - 个体名词 可数名词 如：a chair, another car, dogs
 - 集体名词 可数名词 如：（a)family, (each)class, (all)parties, (different) nations
 - 专有名词 少数可数 如：Communists，Englishmen
@@ -215,22 +216,21 @@
 - 抽象名词 不可数名词 如：happiness
 - 专有名词 多数不可数名词 如：London，China
 
-#### 1.4 可数名词和不可数名词的用法
+##### 1.3.3 可数名词有单复数之分，表示一个或者多个
 
-##### 1.4.1 可数名词有单复数之分，表示一个或者多个
-
-###### 1.4.1.1 单数形式
+###### 1.3.3.1 单数形式
 
 可在前面加a/an或其相应代词(如another, one, every, each)。紧接着的单词的
 第—发音为元音时用an;反之，用a。
+**可数名词单数不能单独在句子或短句出现，需要加限定词(形容词性物主代词，指示代词，’s的所以格，数词等)**
 
 - 例如：an English book, a useful book, a boy, another book every house, each day
 
-###### 1.4.1.2 复数形式一般加s或者es
+###### 1.3.3.2 复数形式一般加s或者es
 
 - 例如：books, classes。具体复数的变化规则请见后面相应童节◊
 
-##### 1.4.2 不可数名词通常设有复数形式
+##### 1.3.4 不可数名词通常设有复数形式
 
 不可数名词前不能加冠词a/an、数词或其相应代词，但可用some, any, a
 lot of, a little等词修饰
@@ -252,7 +252,7 @@ How many pictures can you see on the wall? 你能看到墙上有几幅画? (可�
 How much pork is there in the basket?- 篮子里面有多少猪肉? (不可数)。
 How many glasses of water do you want?你想要多少杯水? (不可数前表示数量)
 
-##### 1.4.3 即可以作可数，又可以作不可数的名词
+##### 1.3.5 即可以作可数，又可以作不可数的名词
 
 有些名词总是用作可数名词的，如: leg, dog; pen。有些名词总是用作不可数名词，如: pork, gold, honesty。 但有些物质名词有时用作可数名词，有时用作不可数名词。
 
@@ -272,12 +272,12 @@ How many glasses of water do you want?你想要多少杯水? (不可数前表示
 - four freedoms 四大自由
 - the four modernizations 四个现代化
 
-##### 1.4.4 可数名词的复数变化规则
+##### 1.3.6 可数名词的复数变化规则
 
 ![规则](https://huangxinchun.github.io/English/img/词法部分/名词/4.png)
 ![规则](https://huangxinchun.github.io/English/img/词法部分/名词/5.png)
 
-###### 1.4.4.1 不规则变化
+###### 1.3.6.1 不规则变化
 
 不规则名词的复数形式是要单个记忆的，它基本没有规律可循:
 
@@ -308,17 +308,17 @@ cattle, 但可以说a person, a policeman a policewoman, a head of cattle。the 
 >- news为不可数名词。
 >- the United States, the United Nations 应视为单数。
 >- 以复数形式出现的书名，剧名，报纸，杂志名，也可视为单数。
->- 例如:◎The United Nations was organized in 1945. 联合国是1945年组建起来的。
+>- 例如:◎The United Nations was organized in 1.35. 联合国是1.35年组建起来的。
 
-##### 1.4.5 不可数名词的数
+##### 1.3.7 不可数名词的数
 
-不可数名词一般只用单数，没有复数形式。它一般不能和a/an及数词连用。表示不可数名词的数量时，可以用量词来修饰不可数名词，作定语。
+(1) 不可数名词一般只用单数，没有复数形式。它一般不能和a/an及数词连用。表示不可数名词的数量时，可以用量词来修饰不可数名词，作定语。
 **量词的构成有两种方式**
 
 - 1.a/an/one+表示量的可数名词单数+of
 - 2.数词(two/three)+表示量的可数名词复数+of
 
-表示量的可数名词通常有piece, cup， bottle, bar等等 。
+(2) 表示量的可数名词通常有piece, cup， bottle, bar等等 。
 **量词一般作前置定语，修改不可数名词**
 例如:
 
@@ -328,7 +328,7 @@ cattle, 但可以说a person, a policeman a policewoman, a head of cattle。the 
 - five bottles of water 五杯水
 - a piece of advice 一条建议
 
-还可以用一些短语修饰不可数名词，表示数量的多或者少。具体可以参照“可数与不可数名词的修
+(3) 还可以用一些短语修饰不可数名词，表示数量的多或者少。具体可以参照“可数与不可数名词的修
 饰语”章节。
 例如:
 
@@ -338,11 +338,11 @@ cattle, 但可以说a person, a policeman a policewoman, a head of cattle。the 
 - a little water 一点水
 - little water 几乎没有水
 
-量词也可以修饰可数名词的复数，但是不能修饰单数
+(4) 量词也可以修饰可数名词的复数，但是不能修饰单数
 
 - a basket of apples 一篮子苹果 不能说 a basket of apple 用 an apple。
 
-使用量词要注意：不是所有的可数名词都能构成量词。只有那种有内部空间或容器或者一些符合逻辑的可数可数名词才可以构成量词。
+(5) 使用量词要注意：不是所有的可数名词都能构成量词。只有那种有内部空间或容器或者一些符合逻辑的可数可数名词才可以构成量词。
 
 比如:
 
@@ -350,3 +350,360 @@ cattle, 但可以说a person, a policeman a policewoman, a head of cattle。the 
 - cup/glass/bottle/tin/pot (容器)
 - bar/piece/loaf (符合逻辑)
 
+##### 1.3.8 容易混淆的可数和不可数名词
+
+###### 1.3.8.1 容易误用为复数的不可数名词
+
+下面的名词都是不可数名词，一般不能用作复数，谓语动词用单数: 
+
+- information通知;信息
+- baggage/luggage行李，皮箱
+- trouble烦恼，麻烦
+- advice建议，忠告
+- equipment装备，设备
+- jewelry珠宝
+- living生活，生计
+- progress前进，发展
+- furniture家具，设备
+- scenery风景，景色
+- machinery机器，机械
+- knowledge知识，学问
+- traffic交通流量
+- cash现金
+- change零钱
+- money钱.
+- paper纸，钞票
+- thunder雷声，车隆声
+
+###### 1.3.8.2 复数形式的名词表示单数
+
+下面的名词都是复数形式的名词表示单数，所以谓语动词要用单数，很多表示学科或疾病的名词都属
+于这类的名词:
+
+- news新闻
+- means 方法，手段
+- The United States 美国
+- The New York Times 纽约时报
+- mathematics数学
+- economics 经济学
+- measles麻疹
+- physics物理学
+- mumps腮腺炎
+- rickets软骨病，佝偻病
+- dynamics动力学
+
+###### 1.3.8.2 表示总体意义的集合名词，用复数
+
+下面的名词是表示总体意义的集合名词，形式上是单数，而意义上却是复数，因此谓语动词要用复数
+形式:
+
+- people人，人们
+- police警察
+- cattle 牛
+- poultry家禽
+- clergy传教士
+- clothes衣服
+- 还有象the English， the French, the Chinese等表示“某国国民”的词，也是复数。
+
+##### 1.3.9 可数与不可数名词常用的数量修饰语
+
+###### 1.3.9.1 数量修饰语的分类
+
+###### 1.3.9.1.1 修饰可数名词的常用数量修饰语
+
+只能修饰可数名词的常用数量修饰语有these, those， few, a few, many, a good/great many, a great/large number of, scores of, dozens of等。
+例如:
+
+- these students 这些学生
+- a few friends几个朋友
+- a great many letters许多信件
+- many factories 许多工厂
+- There' re a number of students reading English in the classroom. 教室里有许多学生在读英语。
+- In winter, a good many- animals sleep under- the snow. 冬天很多动物在雪下冬眠。
+
+###### 1.3.9.1.2 修饰不可数名词的常用数量修饰语
+
+修饰不可数名同的常用数量修飾珸有little, a little, a bit of, much, a great deal of,a largefgreat amount of等。
+例如:
+
+- much money许多銭
+- a little milk一点点牛好;
+- a great deal of time许多吋甸
+- Is there much water in the bucket? 桶里有很多水鳴?
+- He always has a great amount of work to do.他 忌是有很多工作要做。
+
+###### 1.3.9.1.3 既可修饰可数名祠也可修飾不可数名同的数量修飾珸
+
+有些数量修飾珸既可修飾可数名同也可修飾不可数名同,如all, some, enough, a lot of,
+lots of, plenty of (后面的三个祠語的渭珸劫詞的数根据of后的名祠的単夏数而定)，a
+great/large quantity of (其后謂語用単数)，quantities of (其后渭珸用夏数)等。
+例如:
+
+- some books 一些书
+- some time 一些吋同
+- a lot of workers 许多工人
+- lots of water 许多水
+- There are still lots of flowers in the garden. 花园里还有许多花。
+- There is plenty of rain here. 这儿的雨水很多。
+- A great quantity of flowers was placed in the hall.大庁里放了很多鮮花。
+- There are large quantities of food in the cupboard. 橱柜里有许多食物。
+
+##### 1.3.9.2 常用数量修饰语的区别
+
+###### 1.3.9.2.1 few, a few, little, a little的区别
+
+这几个词都表示“少”，但是使用上有区别:
+(1) few, a few是可数的，little， a little是不可数的。
+(2) a few, a little含肯定意味(少量，一点点); few, little含否定意味(几乎没有)。
+例如:
+
+- There is little water in the glass. 杯子里面几乎没有水了。
+- There is a little water in the glass. 杯子里面有一点水。
+
+###### 1.3.9.2.2 some, many,much的区别
+
+这几个词都是许多的意思。但是many用于修饰可数名词，much用于 修饰不可数名词，some则都可
+以用。
+表示“很多”的词和短语很多,其中many, much是最常用的词，它们既可以用于肯定句，也可以用
+于疑问句和否定句，其它的词语都用于肯定句。
+例如:
+
+- Are there many people in the street?街上有很多人吗?
+- There isn' t much time left. 剩下的时间不多了。
+并且如果肯定句中有too, so, as, very或how等词修饰时，也必须使用many, much。
+例如:
+- The number of the people who lost their homes reached as many as 250,000.无家可归的人数多达250, 000人。.
+- There is too much work to do.要做的工作太多了。
+
+###### 1.3.9.2.3 a lot of与lots of的区别
+
+这两个词组几乎没有区别，都可修饰可数名词与不可数名词.
+
+#### 1.4名词的格
+
+##### 1.4.1 语法总述
+
+根据在向中不同的作用，名词可以分为三种“格”，即主格、宾格和所有格。
+
+- 主格:在句中作主语、补语等。
+- 宾格:在句中通常作宾语。
+- 所有格:在句中作定语，表示所属关系。
+
+名词的主格和宾格形式相同。英语名词的所有格表示所属关系，它分“'s所有格”和“of所有格”两
+种形式。
+例如:。
+
+- Tom loves Mary. Tom爱Mary。 (Tom为主格，Mary为宾格)
+- Tom's best friend is Mary. Tom最好的朋友是Mary。(Tom’s是所有格)
+- The title of the book is interesting. 书名很有趣。 (of the book为所有格)
+
+##### 1.4.2 名词的主格和宾格
+
+###### 1.4.2.1 名词的主格
+
+名词的主格可以作主语、补语等，也可由主格的代词I，we, he, she等 代替(具体请见人称代词部分)。
+
+- 谓语的主语: Mary/She came. Mary/她来了。
+- 分词的意义上的主语: The weather/It being so hot, we didn't want to go out. 天气太热了,我们不想出去。
+- 补语: The visitor is ]Mike/he. 来人是Mike/他。
+- 呼语: Come here, An/you. Ann/你， 到这儿来。
+
+###### 1.4.2.1 名词的宾格
+
+名词的宾格通常作宾语,可由宾格的代词me, us, him, her等代替(具体请见人称代词部分)。
+例如:。
+
+- I know Linda/her.我认识Linda/她。
+- He gave Mary/her some money.他给了Mary/她一些钱。
+- She offered me a seat.她给了我一个座位。
+- I thought Jack/him a nice man. 我以前以为Jack/他是一 个好人。
+- I They call her Mary. 他们叫她Mary。
+- This car belongs to Jack/him. 这辆车属于Jack /他。
+- For Henry/him to do it is good. 对Henry/他来说，这么做是很好的。
+
+##### 1.4.3 名词的所有格
+
+英文的名词所有格两种构成方式:
+
+>- 有生命的用‘s, 一般是指人和动物。(可数名词单数也不能单独使用)
+>- 无生命的用of, 不能用's都可以用of表示所有格
+
+例如：
+
+- My firiend's 我朋友的(friend是可数名词单数,不能单独用，加了限定词my,才可以构成名词所有格)
+- The doctor's 这个医生的(doctor是可数名词单数,不能单独用，加了the,才可以构成名词所有格)
+- Mother's 妈妈的(注意，Mother在这里是称呼语,英语名词的所有格表示所属关系，相当于专有名词，第一个字母必须大写，如果是小写，就是可数名词单数，不能单独用)
+
+**名词所有格作一般作前置定语，修饰名词** 表示某人所有的时候也可由物主代词my, our, his, her等代替。
+
+比如:
+
+- Tick's book尼克的书
+- MLother's kiss 妈妈的吻
+
+名词所有格作前置定语的时候可以修饰**可数名词**, 也可以修饰**不可数名词**。
+如:
+
+- Lily's tea 莉莉的茶 (修饰不可数名词)
+- Mother's hands 妈妈的手(修饰可数名词)
+
+例如:
+
+- The children's house is near Tom's.这些孩子的家靠近汤姆的家。
+- I like Tom's/his car. 我喜欢Tom/他的车。
+- Tom's/His coming will be welcome. 欢迎Tom/他的到来。
+- The title of the book is interesting. 这本书的名字很有趣。
+
+###### 1.4.3.1 's所有格
+
+(1)单数名词词尾加’s,复数名词词尾没有s,也要加’s
+例如:
+
+- the boy's bag男孩的书包
+- men's room 男厕所
+- today's news今天的新闻
+
+(2)若名词已有复数词尾s，只加’。
+例如:
+
+- Teachers' Day教师节
+- Dickens' nove1s 狄更斯的小说
+
+(3)**复合名词**或**短语**的所有格，作为一个整体的词组，一般在最后一个词的词尾加’s
+例如:
+
+- `a month or two's` absence
+- `an hour and a half's` walk (步行一-个半小时的路程)
+
+(4) 如果两个名词并列，并且分别有’s,则表示“分别有”;只有- -个’s,则表示“共有”。
+
+例如:
+
+- John's and Mary's rooms (两间)
+- John and Mary's room(一间)
+
+比较下面的区别:
+
+- 个人所有: Mike's room- Mike的房间
+- 两人共有: Mike and Andy's room Mike和Andy的房间 (单数)
+- 每人各有: Mike's and Andy's rooms. Mike的房间和Andy的房间 (复数)
+- 数人共有: the students' TV room 学生们的电视室(单数)
+
+(5) 在表示店铺或教堂的名字或某人的家时,名词所有格的后面常常不出现它所修饰的名词。
+例如:
+
+- the barber's 理发店
+- the doctor's 医生的诊所
+- my uncle's 我叔叔的家
+(6) 在某些句子里,如果前面已经提到,后面名词所有格修饰的词可以省略。
+例如:
+
+- John' s bike is better than Mike' s.约翰的自行车比迈克的好。
+
+[注意]起定语作用的名词，如不表示所有关系，通常也不用’s 详细请见名词所有格和定语名
+词的区别。
+例如:
+
+- room number房间号码
+- tooth brush牙刷
+
+###### 1.4.3.2 of所有格
+
+(1) 凡不能加’s的名词(通常是无生命的名词)，都可以用“名词+of+名词”的结构来表示所有
+关系。
+例如:
+
+- the title of the song 歌的名字。
+- the leg of the desk 桌子的腿
+- a map of China 中国地图
+
+(2)但有些表示时间、距离、国家、城市等无生命的东西的名词，也可以加’s来构成所有格。
+
+例如:
+
+- Beijing's street 北京的街道
+- today's newspaper 今天的报纸
+- ten minutes' walk 十分钟的路程
+
+(3)名词所有格的’s结构也可以转换成of结构。
+例如:
+
+- the girl's name 等于 the name of the girl 女孩的名字
+
+###### 1.4.3.3 双重所有格
+
+双重所有格即“of + 名词’s所有格”，用于修饰of前面的名词，表示整体中的一个或部分。但此时of前面的名词一定要有一个a(an)，two, any, some, several, no, few, another或this, that,
+these, those之 类的修饰语(这个修饰语一般不能是 one和the)。
+例如:
+
+- Do you know any friends of my father's?你知道我父亲的朋友吗?
+
+双重所有格也可由“of+名词性物主代词”构成，
+例如:
+
+- a friend of mine 我的一位朋友。
+
+[注意]在双重所有格中，用作介词补足成分的所有格的名词必须是确定特指的，而且一般指
+人。
+例如:
+
+- an old friend of my father's (= one of my father's old friends)我父亲的一个老朋友
+- this lovely baby of my aunt's我姨妈的可爱的孩子
+- my father's friend → the friend of my father's我父亲的朋友
+
+##### 1.4.4 名词所有格和定语名词的区别
+
+###### 1.4.4.1 名词所有格和定语名词的区别
+
+(1)名词所有格表示的是所属的关系。通常要用’s来表示。
+例如:
+
+- the boy's bag男孩的书包(属于这个男孩的书包)
+- men's room男厕所(属于男人的房间)
+
+(2)**定语名词也可以当做复合名词**往往是说明其中名词的材料、用途、时间、地点、内容、类别等。没有所属的关
+系，不用’s的方式表示。
+例如:
+
+- coffee cup 咖啡杯(说明这个杯子的功能是喝咖啡，并不是杯子属于咖啡)
+- man teacher男老师(说明老师是男的，并不是老师属于男人)
+- stone bridge 石桥(说明桥是石头的，并不是桥属于石头)
+
+###### 1.4.4.2 定语名词的一些特殊情况
+
+(1)有些原有s结尾的名词做合成名词中的定语，只有复数的形式，作定语时，前面的s要保留。
+例如:
+
+- goods train 货车
+- clothes shop 服装店
+- customs papers海关文件
+- an arts degree 文科学位
+
+(2)习惯上用复数作定语的名词。
+例如:
+
+- sports meeting运动会
+- sports car跑车
+- students reading-room学生阅览室
+- talks table 谈判桌
+- the foreign languages depar tment外语系
+- savings bank 储蓄银行
+
+(3)数词、表示量的名词连用做名词的定语有两种形式:
+
+1. “数词+表示量的名词所有格+名词”,如果数词大于“1”，表示量的名词要用复形式。
+例如:
+
+- four miles' walk 四英里路
+- ten minutes' break  十分钟的休息
+- three hours' exam 两小时的考试
+- five years' plan五年计划
+
+2. “数词-表示量的名词+名词”，这时表示量的名词- -律用单数形式。
+例如:
+
+- four-mile walk四英里路
+- ten-minute break十分钟的休息
+- three-hour exam 两小时的考试
+- five-year plan五年计划
+[比较] ten minutes' break- = ten-minute brea- 10分钟的休息
