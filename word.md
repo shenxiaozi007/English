@@ -246,28 +246,28 @@ He need a `box` of `books`
 | 句子 | 含义 | 复数 | 变复数规则 |
 | --- | :---: | :---: | :---: |
 |He like the `accountant` | 会计
-|He like the `actor` 男演员
-|He like the `actress` 女演员
-|He like the `cleaner` 清洁工
-|He like the `dancer` 跳舞者 舞蹈演员
-|He like the `engineer` 工程师 技师
-|He like the `farmer` 农民 农场主
-|He like the `film` 电影演员
-|He like the `lawyer` 律师
-|He like the `manager` 经理
-|He like the `nanny` 保姆
-|He like the `reporter` 记者
-|He like the `sailor` 船员 水手
-|He like the `soldier` 士兵
-|He like the `scientist` 科学家
-|He like the `teacher` 教师
-|He like the `student` 学生
-|He like the `worker` 工人
-|He like the `waiter` 男侍者男服务员
-|He like the `waitress` 女侍者女服务员
-|He like the `writer` 作家
-|He like the `guide` 导游
-|He like the `Leader` 领导
+|He like the `actor` | 男演员
+|He like the `actress` | 女演员
+|He like the `cleaner` |清洁工
+|He like the `dancer` |跳舞者 舞蹈演员
+|He like the `engineer`| 工程师 技师
+|He like the `farmer`| 农民 农场主
+|He like the `film` |电影演员
+|He like the `lawyer`| 律师
+|He like the `manager` |经理
+|He like the `nanny` |保姆
+|He like the `reporter`| 记者
+|He like the `sailor` |船员 水手
+|He like the `soldier`| 士兵
+|He like the `scientist` | 科学家
+|He like the `teacher` | 教师
+|He like the `student`| 学生
+|He like the `worker` | 工人
+|He like the `waiter`| 男侍者男服务员
+|He like the `waitress` | 女侍者女服务员
+|He like the `writer`| 作家
+|He like the `guide` |导游
+|He like the `Leader`| 领导
 
 ## 三 形容词
 
