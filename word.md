@@ -117,7 +117,7 @@ He need a `box` of `books`
 |31. Blackboard |黑板
 |32. boat |小窗
 |33. body |身体
-|34. book |书
+|34. The `book` is new | 书 | books | 加s(25)
 |35. bookstorel |书店
 |36. bowl |碗
 |37. box |箱子
@@ -151,7 +151,7 @@ He need a `box` of `books`
 |65. coat |大衣
 |66. Coffee |咖啡
 |67. color |颜色
-|68. computer |电脑
+|68. The `computer` is very small | 电脑 | comouters | 加s(25)
 |69. cook |厨师
 |70. cookie[ |小甜饼
 |71. country |国家，乡村
@@ -200,12 +200,214 @@ He need a `box` of `books`
 |114. ham |火腿
 |115. hamburger |汉堡包
 |116. hand |手
-|117. hat |帽子
-|118. head |头
-|119. heart |心
-|120. hill |小山
+|117. hat | 帽子
+|118. head | 头
+|119. heart | 心
+|120. hill | 小山
 |121. history |历史
-
+|122.hobby | 业余爱好
+|123.holiday (holadi, holideil假期
+|124.home | 家
+|125.homework | 家庭作业
+|126.hope | 希望
+|127.horse | 马
+|128.hospital | 医院
+|129.hot dog | 热狗
+|130.house | 房子
+|131.ice | 冰
+|132.ice cream | 冰激凌
+|133.idea | 想法
+|134.interest | 兴趣，
+|135 internet | 互联网
+|136.island | 岛屿
+|137.jacket | 夹克
+|138.jeans | 牛仔裤只有复数形式
+|139.job | 工作
+|140.juice | 果汁
+|141.key | 钥匙
+|142.kid | 小孩
+|143.kilogram | 公斤
+|144.king | 国王
+|145.kiss | 吻
+|146.kitchen | 厨房
+|147.kite | 风筝
+|148.knee | 膝盖
+|149.knife | 刀
+|150.knowledge | 知识
+|151.lake | 湖
+|152.lamp | 灯
+|153.land | 陆地
+|154.language | 语言
+|155.leg | 腿
+|156.lemon | 柠檬
+|157.lesson | 课，功课
+|158.letter | 信，字母
+|159.library | 图书馆
+|160.life | 生活表示生活是不可数的
+|161.light | 灯，光线
+|162.line | 线路
+|163.ion | 狮子
+|164.lip | 嘴唇
+|165.list (list]名单.
+|166.1iving | 客厅
+|167.love | 爱
+|168.lunch | 午餐
+|169.machine | 机器
+|170.mail | 邮件
+|171.map | 地图
+|172 market | 市场
+|173.math | 数学
+|174.meal | 一餐
+|175.meat | 肉
+|176.medicine | 药。可数/不可数
+|177.meeting | 会议
+|178.menu | 菜单
+|179.mile | 英里
+|180.milk | 牛奶
+|181.minute | 分钟
+|182.mistake | 错误
+|183.moment | 时刻
+|184.money | 钱
+|185.monkey | 猴子
+|186.month | 月份
+|187.moon | 月亮.没有复数，加冠词the
+|188.morning | 早上
+|189.mountain | 山
+|190.mouse | 老鼠，鼠标
+|191.mouth | 嘴
+|192.movie | 电影
+|193.museum | 博物馆
+|194.music | 音乐
+|195.name | 名字
+|196.neck | 脖子
+|197.news | 新闻
+|198.night | 夜晚
+|199.noodle | 面条
+|200.noon | 中午
+|201.nose | 鼻子
+|202.notebook | 笔记本
+|203.notice | 通知
+|204.number | 数字
+|205.office | 办公室
+|206.oil | 油
+|207.orange | 橘子
+|208.page | 页
+|20.pans | 裤子只有复数形
+|210.paper | 纸
+|211.park | 公园
+|212.party | 聚会
+|213.pen | 钢笔
+|214.pencil | 铅笔
+|215.people | 人民，人们
+|216. person | 人们
+|217.pet | 宠物
+|218.piano | 钢琴
+|219.picture | 图片，相片
+|220.pie | 馅饼
+|221.pig | 猪
+|222.place | 地方
+|223.plan | 计划
+|224.playground | 操场
+|225.point | 分数
+|226.pork | 猪肉
+|227 post | 邮局
+|228.present | 礼物
+|229.price | 价格
+|230.problem | 问题
+|231.program | 节目
+|232.question | 问题， 疑问
+|233.rabbit | 兔子
+|234.radio | 音响
+|235.railway | 铁路
+|236.rain | 雨
+|237.refrigerator | 冰箱
+|238.restaurant | 餐馆
+|239.rice | 大米
+|240.ring | 戒子，环
+|241.river | 河, 江
+|242.road | 道路
+|243.room | 房间
+|244.rose | 玫瑰花
+|245.rule | 规则
+|246.ruler | 尺子
+|247.safe | 保险箱
+|248.salt | 盐
+|249.school | 学校
+|250.sea | 大海
+|251.seat | 座位
+|252.second | 秒
+|253.sentence | 句子
+|254.sheep | 绵羊
+|255.ship | 船
+|256.shirt | 衬衫
+|257.shoe | 鞋子
+|258.size | 尺寸
+|259.skirt | 短裙
+|260.sky | 天空
+|261.smile | 微笑
+|262.sow | 雪
+|263.sock | 袜子
+|264.sofa | 沙发
+|265.song | 歌曲
+|266.sound | 声音，噪音
+|267.soup | 汤
+|268.south | 南方
+|269.spoon | 勺子
+|270.sport | 运动
+|271.spring | 春天
+|272.star | 星星，明星
+|273.station | 车站
+|274.steak | 牛排
+|275.store | 商店
+|276.story | 故事
+|277.street | 街道
+|278.study | 学习，研究
+|279.sugar | 糖
+|280.summer | 夏天
+|281.sun | 太阳独一无二,加冠词the.
+|282 supermarket | 超市
+|283.sweater | 毛衣
+|284.table | 桌
+|285.taxi | 出租车
+|286.tea | 茶
+|287.team | 团队
+|288 tlephone | 电话
+|289 teisisn | 电视
+|290.tens | 网球
+|291.theter | 剧院
+|292 thing | 事情，事物
+|293.ticket | 票
+|294.tier | 老虎
+|295 time | 时间不可数名词
+|296 tomato | 番茄，西红柿
+|297.tooth | 牙齿
+|298.towel | 毛巾
+|299.town | 镇
+|300.toy | 玩具
+|301.train | 火车
+|302.tree | 树
+|303.trip | 旅游,旅行
+|304.umbrella | 雨伞
+|305.uniform | 制服
+|306.vacation | 假期
+|307,vegetable | 蔬菜
+|308.video | 录像，视频
+|309.wall | 墙壁
+|310.watch | 手表
+|311.Water is important | 水 | 不可数名词 | 无 （25）
+|312.way | 道路，方法
+|313.weather | 天气
+|314.week | 周
+|315.weekend | 周末
+|316.well | 水井
+|317.wind | 风
+|318.window | 窗户
+|319.winter | 冬天
+|320.word | 词语，单词
+|321.work | 工作
+|322.world | 世界独一无二，加the
+|323.year | 年
+|324.zoo | 动物园
 - 2. 作表语
 
 > 人的
@@ -237,6 +439,7 @@ He need a `box` of `books`
 | His is a `musician` |音乐家
 | His is a `singer` |歌手
 | His is a `typist` |打字员
+| His is my `friend` | 朋友 | friends | 加s 
 
 > 物的
 
@@ -258,7 +461,7 @@ He need a `box` of `books`
 |He like the `nanny` |保姆
 |He like the `reporter`| 记者
 |He like the `sailor` |船员 水手
-|He like the `soldier`| 士兵
+|He like the `soldier` | 士兵
 |He like the `scientist` | 科学家
 |He like the `teacher` | 教师
 |He like the `student`| 学生
