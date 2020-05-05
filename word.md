@@ -118,7 +118,7 @@ He need a `box` of `books`
 |32. boat |小窗
 |33. body |身体
 |34. The `book` is new | 书 | books | 加s(25)
-|35. bookstorel |书店
+|35. I go into a `bookstore` （我走进一家书店） | 书店 | bookstores | 加s
 |36. bowl |碗
 |37. box |箱子
 |38. bread |面包
@@ -182,7 +182,7 @@ He need a `box` of `books`
 |96. factory |工厂
 |97. family  |家庭
 |98. farm |农场
-|99. fish |鱼表示鱼的数量可数
+|99. I often `fish` at weekends (我常在周末钓鱼)| 鱼, 鱼肉 表示鱼的数量可数 | 表示鱼肉不可数 
 |100. floor |地板
 |101. flower |花
 |102. fly |苍蝇
@@ -225,7 +225,7 @@ He need a `box` of `books`
 |139.job | 工作
 |140.juice | 果汁
 |141.key | 钥匙
-|142.kid | 小孩
+|142.The `kid` fly kite in the field (这个小孩在田野里放风筝)| 小孩 | kids | 加s
 |143.kilogram | 公斤
 |144.king | 国王
 |145.kiss | 吻
@@ -287,7 +287,7 @@ He need a `box` of `books`
 |201.nose | 鼻子
 |202.notebook | 笔记本
 |203.notice | 通知
-|204.number | 数字
+|204.I remember her telephone `number` | 数字，号码 | numbers | 加s
 |205.office | 办公室
 |206.oil | 油
 |207.orange | 橘子
@@ -295,7 +295,7 @@ He need a `box` of `books`
 |20.pans | 裤子只有复数形
 |210.paper | 纸
 |211.park | 公园
-|212.party | 聚会
+|212.I hold a brithday `party` (我举办一个生日聚会) | 聚会, 政党 | parties | 变y为i加es
 |213.pen | 钢笔
 |214.pencil | 铅笔
 |215.people | 人民，人们
@@ -358,7 +358,7 @@ He need a `box` of `books`
 |272.star | 星星，明星
 |273.station | 车站
 |274.steak | 牛排
-|275.store | 商店
+|275.I buy things at a `store` (我在商店买东西) | 商店，储存 | stores | 加s 
 |276.story | 故事
 |277.street | 街道
 |278.study | 学习，研究
@@ -378,7 +378,7 @@ He need a `box` of `books`
 |292 thing | 事情，事物
 |293.ticket | 票
 |294.tier | 老虎
-|295 time | 时间不可数名词
+|295 I go there several `times` | 时间, 次 ps 表示时间不可数名词 | times 次数 | 表示`次数`是可数
 |296 tomato | 番茄，西红柿
 |297.tooth | 牙齿
 |298.towel | 毛巾
@@ -391,7 +391,7 @@ He need a `box` of `books`
 |305.uniform | 制服
 |306.vacation | 假期
 |307,vegetable | 蔬菜
-|308.video | 录像，视频
+|308.We are watching `videos` with her (我们正在和她看录像) | 录像，视频 | videos | 加s
 |309.wall | 墙壁
 |310.watch | 手表
 |311.Water is important | 水 | 不可数名词 | 无 （25）
@@ -503,7 +503,7 @@ He need a `box` of `books`
 |21. dangerous | 危险的
 |22. dark | 黑暗的; 深色的
 |23. dead | 死的
-|24. deep | 深的
+|24. I dig a `deep` hole in the garden (我在花园里挖了个深坑) | 深的 | deeper | deepest
 |25. delicious | 美味的; 可口的
 |26. different 不同的;差异的
 |27. difficult | 困难的;艰难的
@@ -518,7 +518,7 @@ He need a `box` of `books`
 |36. favourite | 最喜爱的:中意的
 |37. fine | 晴朗的: (身体) 很好
 |38. foreign | 外国的
-|39. free | 空闲的
+|39. I have a `free` ticket (我有一张免费票) | 空闲的，免费的 |  freer | freest
 |40. friendly | 友好的
 |41. full | 满的; 饱的
 |42. glad | 高兴的; 乐意的
@@ -577,7 +577,7 @@ He need a `box` of `books`
 |90. several | 几个; 若干
 |91. short | 短的;矮
 |92. sick | 生病的;有病的
-|93. slow | 慢的;缓慢的
+|93. The traffic is haavy and `slow`(交通是拥挤和缓慢的) | 慢的;缓慢的 | slower | slowest
 |94. small | 小的;少的
 |95. sorry | 对不起的;难过的
 |96. strong | 强壮的,牢固的
@@ -657,7 +657,7 @@ He need a `box` of `books`
 |40. join | 加入
 |41. keep | 保持
 |42. kill | 杀死
-|43. knock | 敲
+|43. I am knocking at the door (我正在敲门) | 敲，打，撞击 |  knocked | knocked | knocking | knocks |
 |44. know | 知道
 |45. learn | 学习
 |46. leave | 离开
