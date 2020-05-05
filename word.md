@@ -80,6 +80,7 @@ He need a `box` of `books`
 |28. His `Customer` is rich     |客户
 |29. This `Host` is rich        |主人
 |30. That `hostess` is rich     |女主人
+
 |31. This `Guest` is rich       |客人
 
 > 物的
