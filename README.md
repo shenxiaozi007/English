@@ -744,9 +744,106 @@ these, those之 类的修饰语(这个修饰语一般不能是 one和the)。
 
 #### 3.1 人称代词
 
-#### 3.2 物主代词
+用来替代表示人的名词的词语叫人称代词
+
+| 所属 | 我 | 你/你们 | 她 | 他 | 它 | 我们 | 他们/她们/它们
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 主格 | I | You| She | He | It | We | They
+| 所属 | Me | you | Her | Him | It | Us | Them
+
+##### 3.1.1 主格作主语, 宾格作宾语
+
+- 1。She is very happy （主格she作主语）
+
+> 不能拿主格作宾语，也不能拿宾格作主语
+
+##### 3.1.2 主格和宾格都可以做表语
+
+- Who is it ？ 是谁呀
+- It is me/I 是我
+
+> 两个或者两个以上的人称代词主格的单数作为并列主语的时候顺序为：you，he，and I . 如果是复数，顺序是：we，you and they 
+
+- He and I are both from Guangxi 我和他都来自广西
+- We and you will have a football match 我们和你们将有一场足球比赛
 
 #### 3.2 物主代词
+
+表示所有的关系的代词叫物主代词。物主代词包括`形容词性物主代词`和`名词性物主代词`.
+
+| 所属 | 我的 | 你的/你们的 | 她的 | 他的 | 它的 | 我们的 | 他们的/她们的/它们的
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 形容词性物主代词 | my | your | her | his | its | our | their
+| 名词性物主代词 | mine | your | hers | his | its | ours | their
+
+##### 3.2.1 形容词性物主代词的用法
+
+形容词性物主代词只能做`定语`，而且是只能做`前置定语`。用来`修饰名词`，定语只能修饰名词。所以没有名词就不可能出现形容词性物主代词。
+
+形容词性物主代词做前置定语。可以修改`可数名词单数`和`可数名词复数`。还可以`修饰不可数名词`
+
+- My house 我的房子
+- My houses 我的房子（不止一套）
+- your cars 你的车（不止一辆）
+- my water
+
+> 形容词性物主代词，作前置定语的时候，中间一般不能加数词和冠词，类似 My two books， My the book 都是错的
+
+##### 3.2.2 名词性物主代词的用法
+
+名词性物主代词相当于一个名词。可以做主语，表语，宾语等。但是只能在前面提到或者避免重复的时候才能使用。
+
+例句:
+- A: my car is very good. 我的车很好 B: mine is better. 我的车更好 （mine做主语，替代my car）
+- A: my car is very good. 我的车很好 B: I want yours 我想要你的车 （yours做宾语，替代your car）
+- A: Whose is this house ？ 这是谁的房子 B： It is hers （hers做表语，替代 her house）
+- My compputer is better than yours。 我的电脑比你的好。（避免重复，用yours替代your computer）
+
+> 名词性物主代词不能做定语。因为形容词性物主代词已经专门作定语了。比如 my book 不能说成mine book，名词性物主代词mine不能做定语
+
+#### 3.3 指示代词
+
+| 单数 | 复数 | 
+| --- | :---: |
+| This 这个 （作主语be动词用is） | These 这些（作主语be动词用are） | 
+| That 那个 （作主语be动词用is） | Those 那些（作主语be动词用are） | 
+
+指示代词可以做：主语，宾语，表语，定语。
+
+##### 3.3.1 作定语
+
+`this` 和 `that` `作前置定语`。`专门修饰`或用来`限定可数名词单数`。不能修饰复数，也可以修饰不可数名词
+
+- This girl 这个女孩
+- That student 那个学生
+- I bought this computer 我买了这台电脑
+- This water 这些水
+- That money 那些钱
+
+`these` 和 `those` 也可以`做前置定语，`专门修饰`或`限定可数名词复数`。不能修饰可数名词单数和不可数名词。
+
+- These houses 这些房子
+- Those computers 那些电脑
+
+##### 3.3.1 作主语
+
+`this` 和 `that` 作主语的时候是`单数概念`，如果是`主系表结构`，`be 动词要用单数格式` `is` 或者 `was`
+
+- This is my book 这是我的书
+- That is my wife 那个是我妻子
+
+`these` 和 `those` 作主语的时候是`复数概念`，如果是`主系表结构`，`be 动词要用单数格式` `are` 或者 `were`
+
+- These are my students 那是我的学生
+- Those are my books 那些是我的书
+
+##### 3.3.1 作宾语
+
+指示代词作宾语， 情况很少
+
+- I want this 我要这个
+- I like that 我喜欢那个
+- I will buy these/those 我要买这些/那些
 
 ### 第四章. 形容词
 
