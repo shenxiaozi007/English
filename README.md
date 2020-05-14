@@ -847,6 +847,114 @@ these, those之 类的修饰语(这个修饰语一般不能是 one和the)。
 
 ### 第四章. 形容词
 
+#### 4.1 形容词的定义
+
+形容词【adjective 简称 adj或a】形容词主要用来修饰名词或代词，表示人或事物的性质，状态和特征的程度好坏与否。
+
+1. 普通形容词 
+    beautiful big green happy long
+
+2. 复合形容词
+    复合形容词是中文没有的没有概念。复合形容词就是由两个单词组成的一个新的单词。也属于形容词两个单词中间有“-”。
+    sky-blue 天蓝色的 good-looking 好看的 man-made 人造的 second-hand 二手的 
+    warm-hearted 热心的 hard-working 努力的
+
+#### 4.2 形容词的用法
+
+形容词可以作定语。表语和宾补
+
+1. 作表语
+
+大部分形容词都可以作表语。构成 主 + be（系动词）+ 形容词（表语）
+
+- I ma happy / busy 我快乐我忙
+- you are rich 你是有钱的
+- they are rich 他们/她们有钱的
+- It is cheap/big/small 它是便宜的、大的、小的
+- The file is very boring 这个部电影很无聊
+
+2. 作前置定语
+
+大部分形容词都可以作前置定语，修饰普通名词。放在普通名词前面
+
+- My small house 我的小房子
+- A cheap computer 一台便宜的电脑
+
+> 注意 形容词作前置定语只能名词有关。修饰一个普通名词。要考虑可数名词单数要加限定词问题。
+
+- I like the small house 我喜欢这个小房子
+- Those young people like sports very much 那些年轻人非常喜欢运动
+- The cheap computer is mine 这太便宜的电脑是我的
+
+3. 作宾语补足语
+
+只有特定的及物动词后面才能跟形容词作宾语补足语
+
+比如：make（使，让）keep（保持）prove （证明是） 等等
+
+- I make you busy 我让你忙
+- We keep the room clean 我们保持房间干净
+- All the facts proved him right 所有的事实都证明了他是对的
+- She made me angry last night
+
+> 一般来说。形容词作定语和表语的情况比较多。作宾补比较少
+
+#### 4.3 形容词的位置
+
+当出现几个形容词同时修饰名词作前置定语的时候。要考虑排序位置。
+
+- 1.冠词（a，an，the，物主代词my，数词there，指示代词） + 2.描绘性的形容词beautiful + 3.表示形状（大小，长短，高矮）的形容词 + 4.表示年龄或者新旧的词语。
+
+#### 4.5 形容词的比较级
+
+大部分的形容词有三个格式：原级，比较级（更），最高级（最）
+
+#### 4.6 比较级和最高级的用法
+
+形容词的比较级和最高级跟形容词原级一样。可以作前置宾语跟表语，甚至宾补
+
+- I have a better way 我有一个更好的方法 （前置定语）
+- She made me the happiest man in the world 她让我成为这个世界上最幸福的男人 （前置定语）
+- Eating apples makes us healthier 吃苹果让我们更健康 （宾补）
+
+四个句型
+
+1. A 超过 B，当表示A事物（人）比 B事物（人）强的时候，如下
+A + be + 形容词的比较级 + than B（than B 是比较状语）
+句型中的形容词一定要变比较级，than是一个连接词，中文“比”的意思
+
+（主 + 系 + 表+ 比较状语）
+
+- I am taller than he 我比他高。（than后面的人称代词可以是主格也可以是宾格 ）
+- My girlfriend is more beautiful than her 我女朋友比她漂亮
+- My boss is richer than yours 我的老板比你的老板有钱
+
+2. `A 不如 B`，当表示`A事物（人）`不如` B事物（人）强`的时候，如下
+
+A + be not+ 形容词的比较级 + than B（than B 是比较状语）
+
+- I am not taller than he 我没有他高
+- She is not fatter than me 他没有我胖
+
+3. A 和 B一样 当表达A事物（人）和B事物一样的时候。如下
+
+A + be + as + 形容词的原级 + as + B
+
+> 这个的形容词是`原型` `as···as` 表示 `和····一样`
+
+- I am as tall as him 我和他一样高 
+- she is as fat as me 她和我一样胖
+
+4. A是最什么的······当表示在一定范围内，A事物（人）是最厉害的。如下
+
+A + be + the + 最高级 + 表示范围的词语
+
+这里的形容词一定要用`最高级`，并且前面一定要加`定冠词the`.因为人外有人。所以要加个表示范围的词语。一般由介词短语构成。
+
+- He is the richest in Guangxi 他在广西是最有钱的
+- The house is the highest in Guangzhou 这个房子在广州市最高的
+- He is the most famous in China 在中国，他是最出名的
+
 ### 第五章. 动词
 
 ### 第六章. 冠词
