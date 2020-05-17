@@ -1048,7 +1048,54 @@ you（主语） + look（借过来的系动词） + buautiful（形容词作表�
 
 ### 5.5 助动词
 
+助动词没有意思，它的作用是帮助`实义动词`或者`系动词`构成复合谓语,或者构成`疑问句`，`否定句`，和各种`时态`，`语态`和`语气`
 
+常用的助动词有：be（包括其他形式），do（did，does），have（has，had），will，would，shall，should，
+> 从系动词和实义动词借过来的，充当助动词的时候没有意思。
+
+#### 5.5,1 助动词的特点
+
+- 没有意思
+- 不能单独使用，必须借助构成其他各种结构
+- 没有专门的助动词，都是从系动词或实义动词借过来的
+
+1. I am working now 我现在正在工作（现在进行时态 am属于助动词，不是系动词，）
+2. Do you love me 你爱我吗？（do没有意思，帮助构成一般疑问句）
+3. I do not love you 我不爱你 （do没有意思，帮忙构成一般现在时态的否定句）
+4. I will buy ten glasses tomorrow 我明天要买10个杯子（will没有意思，帮助构成一般将来进行时态）
+
+### 5.6 情态动词
+
+常用的情态动词如下
+
+| can（能，会） | could（can 的过去式） | may（may） | might（may的过去式） |
+| --- | :---: | :---: | :---: | :---: | 
+| should（应该） | must（必须） | have to（不得不） | dare（敢） |
+| needn't（不必） | had better（最好） | ought to = should | be able to = can |
+
+情态动词主要是跟`动词原形`构成`复合谓语`。可以用在`主谓宾`或`主系表`的句子里面。
+所以有两个如下两个句型:
+
+#### 5.6.1 主语 + 情态动词 + 实义动词原型/动词短语原型 + （宾语）
+
+1. I can speak english 我会说英语 （can + 及物动词原型 speak 构成复合谓语）
+
+2. She can look after her baby 她能照顾她的孩子 （can + 动词短语原型 look after 构成复合谓语）
+
+3. I must go (must + 不及物动词go 构成复合谓语)
+
+#### 5.6.2 主语 + 情态动词 + be + 表语
+
+1. I can be a good teacher 我可以成为一个好老师 （can + 系动词原型be + 表语a good teacher 一起构成复合谓语状态型的复合谓语。）
+
+2. You should be happy 你应该开心（should + be + 表语 happy 构成状态型的复合谓语）
+
+3. You have to be patient 你必须耐心（have to + be + 表语 patient 构成状态型的复合谓语）
+> 注意： 这里的 ”be“ 属于系动词，是有意思的。
+
+#### 5.6.3 造句总结
+
+情态动词后面只能跟动词原形，
 ## 第六章. 冠词
 
 ### 第七章. 一般现在时态
