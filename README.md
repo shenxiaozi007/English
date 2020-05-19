@@ -1066,11 +1066,11 @@ you（主语） + look（借过来的系动词） + buautiful（形容词作表�
 
 ### 5.6 情态动词
 
-常用的情态动词如下
+常用的情态动词如下(含有情态动词的句子变成`否定句`。在情态动词后面加not，可以缩写)
 
-| can（能，会） | could（can 的过去式） | may（may） | might（may的过去式） |
+| can（能，会）(cant't) | could（can 的过去式）(couldn't) | may（may） | might（may的过去式） |
 | --- | :---: | :---: | :---: | :---: | 
-| should（应该） | must（必须） | have to（不得不） | dare（敢） |
+| should（应该） | must（必须） | have to（不得不）(don't have to) | dare（敢） |
 | needn't（不必） | had better（最好） | ought to = should | be able to = can |
 
 情态动词主要是跟`动词原形`构成`复合谓语`。可以用在`主谓宾`或`主系表`的句子里面。
@@ -1095,7 +1095,122 @@ you（主语） + look（借过来的系动词） + buautiful（形容词作表�
 
 #### 5.6.3 造句总结
 
-情态动词后面只能跟动词原形，
+情态动词后面只能跟`动词原形`，在原有的`主系表`和`主谓宾`基础上加上`一个情态动词`。然后对应的`系动词`和`谓语动词`变回`原型`就可以
+
+1. I speak English every day 我每天说英语
+2. I am a good teacher 我是一个好老师
+3. She is hungry 她饿
+
+加上情态动词
+
+1. I can speak English every day 我可以每天说英语 （speak 原型）
+2. I can be a good teacher 我可以成为一个好老师（系动词am 变为 be）
+3. She must be hungry 她肯定饿了 （系动词 is 变为 be）
+
+一般情况下。含有`情态动词`的句子基本`没有时态结构的变化`。比如must可以直接表达过去，将来，现在，must本身不用变化。直接加上时间状语。比如
+
+1. I must go now 我必须现在走了
+2. I must go home tomorrow 我明天必须回家
+3. I must sleep early yesterday 我昨天必须很早睡觉
+
+也有些情态动词有格式的变化。比如 `can` 的过去式 `could` 。`have to` 的过去式 `had to` 。`be able to` 的过去式 `was / were able to`。 `may` 的过去式 `might` .这些情态动词`有时态的变化`。不过只能变`情态动词本身`，情态动词后面依然必须得用`动词原型`。
+
+> 只有需要表达情态动词的意义，才可以加上一个情态动词构成复合谓语。造句。不要乱用情态动词
+
+#### 5.6.4 can (能，会，可以)
+
+`can`可以表示`现在`或者`将来`的请求。表示 `现在能做什么事情` 或 `将来能做什么事情`，直接用`can` + `动词原形`， `can不用发生变化`。表示将来直接加一个 `时间状语` 即可。比如
+
+1. I can buy a home in the future 我以后可以卖一套房子
+2. I can buy a house now 我现在可以买一套房
+
+can 是一个多意词，不同语境，不同情况，意思不同
+
+- 表示能力
+    can 可以表示 有做某事的能力，即：能做某事
+    1. He can move the big stone 他能搬动这块石头
+    2. Who can answer this qustion？ 谁能回答这个问题
+
+- 可能性
+    can 可以表示 做某事的可能性，即：可以，可能做某事
+    1. Can you help me 你可以帮我吗？
+    2. I can call you tomorrow 我明天可以打电话给你
+- 可能
+    can 可以用在否定句和疑问句里 表示 不可能...... 可能...... 表示猜测。
+    1. That can’t be Mary， she is in hospital 那不可能是玛丽，她住院了
+    2. Can he reveive my email 他能收到我的电子邮件吗？
+- 表示允许做某事
+    和may的意思差不多。口语用can更多 即：主语被人允许去做某事。
+    1. You can park here 我可以在这里停车
+    2. You can catch my fishes 你们可以抓我的鱼
+    3. Every one can attend my class for free 每个人都可以免费参加我的课程
+
+#### 5.6.5 could (能，会，可以)
+
+could 有两种用法
+
+- 作`can的过去式`，表示`过去的情况`，也就是把含有can的句子变一般过去时。然后can改为could
+    1. I could not hear the actors。
+    2. I could eat three bowls of rice ten years ago。
+
+- could 可以用在`婉转的`，`礼貌的提出请求，想法`。这个时候could不属于can的过去式
+    1. Could you show me the way 你可以给我带路吗？
+    2. I could get you a copy 我可以帮你弄一份。
+
+#### 5.6.6 may (能，会，可以)
+
+may 跟 can 一样，可以表示`现在`或者`将来`的情况。也就是本身含有`一般现在时态`和`将来时态`的功能。
+有如下几种用法
+
+- 用来提出问题，征求别人的需求。即问：`可以不可以`
+    基本上只能用来`一般疑问句`里面，而且主语基本上是`I`。 也就是`May I`，不能用may you ，习惯上用` can you `来问对方可以不可以
+    1. May I use your phone? 我可以用你的电话吗?
+    2. May I come around in the afternoon? 我可以在下午的时候过来吗？
+    3. May I call you tomorrow? 明天我可以打电话给你吗？
+- 用于陈述句。表示`允许主语做某事`，跟上面的can第四种用法一样，区别在于。`口语多用can`
+    1. You may come if you wish 如果你愿意，你可以来
+    2. You may use my computer = You can use my computer 你可以用我的电脑
+- 表示`可能`，表示`猜测`，一般翻译成 `”也许“`
+    1. Anna may know Tom's address 安娜可能知道汤姆的地址
+    2. Jack may know lily's secret 杰克也许知道莉莉的秘密
+
+    - `may + have + 过去分词` 表示对过去的猜测，
+        1. He may have gone abroad 他可能已经出国了。
+    - `may + be + 现在分词` 表示现在可能在做某事
+        1. They may be waiting at the station 他们可能正在车站等
+- 表示祝愿
+
+    may 可以表示对某人的`祝福`或`祝愿`。有两种情况
+    - `May + 主语 + be + 表语`
+        1. May you be happy 祝你幸福
+        2. May you be safe 祝你平安
+    - `May + 主语 + 动词原型 + 宾语`
+        1. May you succeed 祝你成功
+        2. May you have a good time 祝你玩的开心
+
+
+#### 5.6.7 might (能，会，可以)
+
+might 有两种用法
+
+- 作may的过去式，也就是把含有may 的句子变成一般过去式，需要把may变成过去式might
+    1. You may keep the book for the book for three days 书可以借你三天。
+    2. You might keep the book for one day ten years ago 十年前你可以借这书一天
+- might 不是 may 的过去式，而是来替代may，谈`现在的情况`，比may跟委婉.
+    1. May I go with you? 我可以和你一起去吗？
+    2. Might I go with you ？我可以和你一起去吗？（比may跟委婉）
+    3. Might I use your cellphone？ 我可以用你的手机？
+
+
+#### 5.6.8 must (能，会，可以)
+#### 5.6.9 have to (不得不)
+#### 5.6.10 ought to (应该)
+#### 5.6.11 should (应该)
+#### 5.6.12 dare (应该)
+#### 5.6.13 be able to (应该)
+#### 5.6.14 neet‘t (不必，没必要)
+#### 5.6.15 had better(最好)
+
 ## 第六章. 冠词
 
 ### 第七章. 一般现在时态
