@@ -1188,25 +1188,133 @@ may 跟 can 一样，可以表示`现在`或者`将来`的情况。也就是本�
         1. May you succeed 祝你成功
         2. May you have a good time 祝你玩的开心
 
-
 #### 5.6.7 might (能，会，可以)
 
 might 有两种用法
 
-- 作may的过去式，也就是把含有may 的句子变成一般过去式，需要把may变成过去式might
+- 作may的过去式，也就是把`含有may`的句子变成`一般过去式`，需要把`may变成`过去式`might`
     1. You may keep the book for the book for three days 书可以借你三天。
     2. You might keep the book for one day ten years ago 十年前你可以借这书一天
-- might 不是 may 的过去式，而是来替代may，谈`现在的情况`，比may跟委婉.
+- `might `不是` may `的过去式，而是来替代may，谈`现在的情况`，比`may`更委婉.
     1. May I go with you? 我可以和你一起去吗？
     2. Might I go with you ？我可以和你一起去吗？（比may跟委婉）
     3. Might I use your cellphone？ 我可以用你的手机？
 
-
 #### 5.6.8 must (能，会，可以)
+
+must 有三种用法
+
+- 在肯定句里面表示`“必须”` `“一定要”` `“得”` 的意思, `没有时态变化`，可以表示`过去`，`现在`，`将来`的情况
+    1. You must cut down on smoking 你必须少抽点烟
+    2. I must remember to go to the bank today 我今天必须记得去银行。
+    3. Must we finish the homework today？ 我们必须今天完成作业吗？
+    Yes you must 是的， 你们必须。
+    No you don’t have to 不，你们不必。
+
+> 注意， `must 的一般疑问句`，`否定回答`不用 `mustn‘t`，要用 `have to`。
+
+- must 的`否定格式` `“mustn’t”` 表示 `“禁止主语做某事，不准主语做某事”`
+    1. You mustn‘t take pictures here ，it is forbidden 你不得在这里照相，这是禁止的。
+    2. Cars must not park in front of the supermarket，车不得停在超市门口。
+
+- must 可以`表示推想`。翻译成`“一定”`，`“准是”` `“肯定是”`。主要用在`主系表`，`主语 + must be + 表语`
+
+    1. You must be huagry， have something to eat 你肯定饿了，吃点东西吧
+    2. They must be twins 他们/她们肯定是双胞胎
+
+    表示`“以前肯定做了某事”`，可以用在`主谓宾`的句子上。`“must + have + 过去分词 + 宾语”`
+
+    1. I can't find my English book , I must have left it at home 我找不到我的英语书了，肯定放在家里了。
+    2. She must have been to Amerrica 她肯定去过美国。
+
+
 #### 5.6.9 have to (不得不)
+
+`have to` 的意思接近` must `，但是`must强调说话人的意愿`。而`have to 表示客观上的必要性`。 常常翻译成`“不得不”`，`否定形式`表示`“不必”`。
+
+> 注意，have to 与 have不能混淆。`have to `整体是一个`情态动词`。`有时态的变化`。
+
+- 一般现在时态
+    - 1. 主语非小三（或者小三） + have（has）to + 动词原形 + 宾语
+        - We have to help him 我们不得不帮他
+        - You have to sleep 你必须得睡觉了
+        - She has to take pills 她必须得吃药
+        - The doctor has to help him 这个医生不得不帮他
+    - 2. 主语非小三 (或者小三) + have（has）to + be + 宾语
+        - My students have to be careful 我的学生必须得小心
+        - The girl has to be careful 这个女孩必须得小心
+
+- 一般过去时
+    - 1. 主语 + had to + 动词原形 + 宾语
+        - They had to jump into the river last night 昨晚他们不得不跳河里
+    - 2. 主语 + had to + be + 表语
+        - You had to be careful yesterday 昨天你不得不小心
+
+- 一般将来时
+    - 1. 主语 + will have to + 动词原型 + 宾语
+        - We will have to take the bus tomorrow 我们明天必须得坐公交车
+        - We will not have to take the bus tomorrow 我们明天不必坐公交车
+    - 2. 主语 + will have to + be + 表语
+        - You will have to be careful in the future 以后你必须得小心
+    - 3. 主语 + be going to + have to + 动词 + 宾语
+        - I am going to have to take the bus tomorrow 我明天不得不坐公交车
+        - She is going to have to go home tomorrow 她明天必须得回家
+
+> 含有`“have to”` 的疑问句和否定句都要用`助动词do`构成，比如
+
+- Do you have to leave soon ？ 你一定要马上离开吗？
+- Does she have to go with you ？ 她一定要跟你去吗？
+- You don't have to say sorry 你不必说对不起
+- She doesn't have to take the bus 她不必坐公交车
+
 #### 5.6.10 ought to (应该)
+
+与 have to 一样，`ought to 也是一个情态动词`。注意` ought to `没有`一般疑问句`，只有肯定句和否定句，否定句要在ought后面加not。
+
+- We ought to get up early 我们应该早起
+- We ought not to eat too much sugar 我们不应该吃太多糖
+
 #### 5.6.11 should (应该)
-#### 5.6.12 dare (应该)
+
+should 可以做`助动词`，也可以做`情态动词`，做情态动词的时候，翻译成`“应该”`，跟ought to 差不多。
+
+- we should get up early = we ought to get up early 我们应该早起
+- we shouldn’t sit in the office all day long 我们不应该一整天坐在办公室里面
+
+> should `有一般疑问句`， ought to 没有
+
+- Should we stay here ？ 我们应该留在这里吗？
+- Should we help the old man》 我们应该帮助这个老人吗？
+
+#### 5.6.12 dare （敢）
+
+dare比较特殊，可以作实义动词，也可以做助动词。在肯定句里面作实义动词。在疑问句，否定句，条件句里面作情态动词。“dare”没有人称形式的变化，过去式是“dared”。在否定语句里面有点麻烦。
+
+- I dare not look at her = I don‘t dare look at her 我不敢看他。（dare not = don’t dare）
+- I dared not drink beer last night = I didn‘t dare drink beer last night 昨晚我不敢喝啤酒（dared not = didn’t dare）
+
+##### 5.6.12.1 否定句（dare not 或者加助动词 : doesn't dare, don't dare, didn't dare）
+
+当 “dare” 出现在否定句的时候，“dare”是一个情态动词，后面直接跟动词原形。要注意时态的变化。
+
+- I dare not ask her to marry me = I don‘t dare ask her to marry me （一般现在时态）
+- They dared not move = They didn’t dare move 他们不敢动（一般过去时态）
+
+“dare” 在带有否定的句子中也可以作情态动词，直接跟动词原型，本身有否定意思，dare不需要变否定格式。
+
+- No one dared speak of it 没有人敢谈及此事
+- He never dared stay long 他从来不敢待久
+
+##### 5.6.12.2 疑问句及条件从句
+
+当 “dare” 出现在疑问句或条件句的时候也属于情态动词，后面跟动词原型。变一般疑问句，只要把dare移到主语前面就可以。
+
+- Dare she look at me ？= Does she dare look at me？ 她敢看我吗？
+- Dare you interrupt him？= Do you dare interrupt him？你敢打扰他吗？
+
+> dare 在肯定句中，是一个典型的`及物动词`，后面不能跟动词原型，需要跟`动词不定式短语`做宾语, “I dare to go home alone”
+
+
 #### 5.6.13 be able to (应该)
 #### 5.6.14 neet‘t (不必，没必要)
 #### 5.6.15 had better(最好)
